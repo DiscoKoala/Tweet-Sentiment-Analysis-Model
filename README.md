@@ -4,11 +4,7 @@ Python notebook that leverages Tensorflow and Keras to determine text sentiments
 
 ## Description
 
-
-
-## Getting Started
-
-
+Outlines a natural language processing (NLP) workflow that performs multi-label emotion classification on tweets using deep learning with TensorFlow/Keras, and pre-processing steps such as stemming, stopword removal, and vectorization.
 
 ### Dependencies
 
@@ -22,13 +18,3 @@ Python notebook that leverages Tensorflow and Keras to determine text sentiments
 ## Authors
 
 Wesley Johnson
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-
